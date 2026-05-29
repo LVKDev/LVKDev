@@ -1,16 +1,16 @@
 # 👋 Olá! Eu sou Luiz Vasconcelos
 
-### Desenvolvedor Full Stack apaixonado por Backend e Lógica de Programação
+### Desenvolvedor Full Stack com foco em Backend, Arquitetura de Software e Soluções Escaláveis
 
 ---
 
 ## 📌 Sobre Mim
 
-Olá! Sou **Luiz Antônio**, desenvolvedor Full Stack apaixonado por **arquitetura de software** e **aprendizado contínuo**. Atualmente cursando **Ciência da Computação**, dedico-me a construir soluções eficientes, unindo uma lógica de programação sólida a um ecossistema de ferramentas modernas.
+Olá! Sou **Luiz Antônio**, desenvolvedor Full Stack com foco na construção de soluções digitais eficientes, escaláveis e alinhadas às necessidades do negócio. Atualmente cursando **Ciência da Computação**, busco unir fundamentos sólidos de programação, visão analítica e boas práticas de engenharia de software para entregar aplicações bem estruturadas e sustentáveis.
 
-Minha jornada com a tecnologia começou em **2017**, durante o ensino técnico, onde o primeiro contato com a lógica e a estrutura de software despertou o que viria a se tornar minha profissão. Desde então, venho aprofundando meus estudos e transformando a curiosidade em uma carreira cada vez mais sólida.
+Minha trajetória na tecnologia começou em **2017**, durante o ensino técnico, quando tive meu primeiro contato com lógica de programação e estruturação de sistemas. Desde então, venho evoluindo de forma contínua, consolidando conhecimentos técnicos e desenvolvendo uma atuação orientada à qualidade, colaboração e melhoria constante.
 
-Tenho foco no desenvolvimento de **aplicações escaláveis**, utilizando ecossistemas modernos como **Node.js, PHP e frameworks** como Next.js e Vue.js. Minha abordagem prioriza a construção de **back-ends robustos** e bem estruturados, onde aplico lógica de programação refinada para garantir que cada funcionalidade faça sentido dentro do ecossistema do projeto.
+Atuo no desenvolvimento de **aplicações web completas**, com ênfase em **back-ends robustos**, integrações bem definidas e interfaces funcionais. Trabalho com ecossistemas modernos como **Node.js, PHP, Next.js e Vue.js**, sempre priorizando arquitetura, organização de código, performance e clareza nas regras de negócio.
 
 ---
 
