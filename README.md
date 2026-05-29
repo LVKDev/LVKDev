@@ -72,14 +72,6 @@ Sou um defensor do **trabalho em equipe** e gosto de participar ativamente de to
 
 ---
 
-## �🌱 Atualmente Aprendendo
-
-- 📚 Java e PHP (aprofundando conhecimentos)
-- 🔄 Arquitetura de Microsserviços
-- 🧪 Testes Automatizados e TDD
-
----
-
 ## 🤝 Vamos nos Conectar!
 
 Adoraria conversar sobre tecnologia, projetos ou oportunidades de crescimento. Sinta-se livre para entrar em contato!
