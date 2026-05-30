@@ -6,7 +6,7 @@
 
 ## 📌 Sobre Mim
 
-Olá! Sou **Luiz Antônio**, desenvolvedor Full Stack com foco na construção de soluções digitais eficientes, escaláveis e alinhadas às necessidades do negócio. Atualmente cursando **Ciência da Computação**, busco unir fundamentos sólidos de programação, visão analítica e boas práticas de engenharia de software para entregar aplicações bem estruturadas e sustentáveis.
+Sou **Luiz Antônio**, desenvolvedor Full Stack com foco na construção de soluções digitais eficientes, escaláveis e alinhadas às necessidades do negócio. Atualmente cursando **Ciência da Computação**, busco unir fundamentos sólidos de programação, visão analítica e boas práticas de engenharia de software para entregar aplicações bem estruturadas e sustentáveis.
 
 Minha trajetória na tecnologia começou em **2017**, durante o ensino técnico, quando tive meu primeiro contato com lógica de programação e estruturação de sistemas. Desde então, venho evoluindo de forma contínua, consolidando conhecimentos técnicos e desenvolvendo uma atuação orientada à qualidade, colaboração e melhoria constante.
 
