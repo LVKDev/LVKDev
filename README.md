@@ -45,10 +45,25 @@ Atuo no desenvolvimento de **aplicações web completas**, com ênfase em **back
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+### 🔌 APIs & Integrações
+
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat&logo=fastapi&logoColor=white)
+![APIs Assíncronas](https://img.shields.io/badge/APIs_Ass%C3%ADncronas-6A5ACD?style=flat&logo=apachekafka&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat&logo=webhook&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
 ### 🛠️ Ferramentas & Versionamento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+![MCPs](https://img.shields.io/badge/MCPs-5A45FF?style=flat&logo=modelcontextprotocol&logoColor=white)
 
 ---
 
