@@ -10,7 +10,7 @@ Sou desenvolvedor Full Stack com foco na construção de soluções digitais efi
 
 Minha trajetória na tecnologia começou em **2017**, durante o ensino técnico, quando tive meu primeiro contato com lógica de programação e estruturação de sistemas. Desde então, venho evoluindo de forma contínua, consolidando conhecimentos técnicos e desenvolvendo uma atuação orientada à qualidade, colaboração e melhoria constante.
 
-Atuo no desenvolvimento de **aplicações web completas**, com ênfase em **back-ends robustos**, integrações bem definidas e interfaces funcionais. Trabalho com ecossistemas modernos como **Node.js, PHP, Next.js e Vue.js**, sempre priorizando arquitetura, organização de código, performance e clareza nas regras de negócio.
+Atuo no desenvolvimento de **aplicações web completas**, com ênfase em **back-ends robustos**, integrações bem definidas e interfaces funcionais. Trabalho com ecossistemas modernos como **Node.js, Bun.js, Java, PHP, Ruby, Python, Next.js e Vue.js**, sempre priorizando arquitetura, organização de código, performance e clareza nas regras de negócio.
 
 ---
 
